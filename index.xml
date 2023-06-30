@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Jun 2023 22:17:52 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MyFirstBlog</title>
+      <link>/posts/myfirstblog/</link>
+      <pubDate>Fri, 30 Jun 2023 22:17:52 +0800</pubDate>
+      
+      <guid>/posts/myfirstblog/</guid>
+      <description>
+        
+          
+            这是我的第一篇博客 以下是我搭建博客时遇到的问题 1.环境变量配置错误，导致执行命令hugo version时报错
+2.不理解命令的使用，多用了几次就熟练了
+3.错把装有主题文件的文件夹放到/themes目录里，导致报错
+4.不会使用github网页
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
